@@ -30,7 +30,7 @@ The Titanic dataset contains information about individual passengers, including:
 
 ## Algorithms Used
 - Logistic Regression
-- (Optional: Random Forest / Decision Tree for comparison)
+
 
 ## Results
 - Accuracy: ~[75.4]%  
