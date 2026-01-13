@@ -10,7 +10,7 @@ Sales prediction plays an important role in business decision-making by helping 
 
 In this project, machine learning regression models are used to analyze and predict sales based on historical advertising data.
 
-# Dataset
+## Dataset
 
 Dataset Name: Advertising Dataset
 
@@ -18,7 +18,7 @@ File Name: advertising.csv
 
 Source: Standard dataset used for regression tasks
 
-# Dataset Information
+## Dataset Information
 
 Total Records: 200
 
@@ -34,7 +34,7 @@ Target Variable:
 
   Sales – Product sales
 
-# Technologies Used
+## Technologies Used
 
 Python
 
@@ -50,7 +50,7 @@ Seaborn
 
 Scikit-learn
 
-# Machine Learning Models Used
+## Machine Learning Models Used
 
 Linear Regression
 
@@ -58,7 +58,7 @@ Multiple Linear Regression
 
 Feature analysis and preprocessing were performed before training the models.
 
-# Model Evaluation
+## Model Evaluation
 
 The models were evaluated using:
 
@@ -70,11 +70,11 @@ The models were evaluated using:
 
 The regression models demonstrated good performance in predicting sales.
 
-# Model Testing
+## Model Testing
 
 The trained model was tested on new advertising data to predict sales values.
 
-# Conclusion
+## Conclusion
 
 This project demonstrates the complete machine learning workflow required for the CODSOFT Sales Prediction task:
 
