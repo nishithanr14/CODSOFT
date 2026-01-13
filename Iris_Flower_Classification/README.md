@@ -2,8 +2,6 @@
 
 This project classifies iris flowers into Setosa, Versicolor, and Virginica
 using sepal and petal measurements with machine learning.
-Iris Flower Classification
-📌 Project Overview
 
 This project focuses on classifying Iris flowers into three species:
 
