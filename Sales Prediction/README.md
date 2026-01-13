@@ -1,10 +1,10 @@
-## Sales Prediction
+# Sales Prediction
 
 This project predicts product sales using machine learning techniques based on advertising expenditure across different media channels.
 
 The objective of this task is to build a model that can accurately predict sales using features such as TV, Radio, and Newspaper advertising spend.
 
-# Project Description
+## Project Description
 
 Sales prediction plays an important role in business decision-making by helping companies understand the impact of advertising investments on product sales.
 
