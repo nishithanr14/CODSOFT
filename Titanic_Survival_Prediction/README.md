@@ -36,8 +36,9 @@ Logistic Regression
 Results
 Accuracy: ~[75.4]%
 
-## Confusion Matrix: - Insights: - Female passengers had a higher survival rate. - Higher-class passengers had better chances of survival. - Age and fare influenced survival probabilities.
-Tools
+Confusion Matrix: - Insights: - Female passengers had a higher survival rate. - Higher-class passengers had better chances of survival. - Age and fare influenced survival probabilities.
+
+## Tools
 Python
 Pandas & NumPy
 Scikit-learn
