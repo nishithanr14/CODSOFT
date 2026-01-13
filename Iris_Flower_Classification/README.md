@@ -15,7 +15,7 @@ The classification is done using machine learning models based on sepal and peta
 
 This is a classic beginner-friendly classification problem and is part of the CODSOFT Data Science Internship.
 
-📊 Dataset
+# Dataset
 
 Dataset: Iris Flower Dataset
 
@@ -33,11 +33,11 @@ Petal Length
 
 Petal Width
 
-Target:
+# Target:
 
 Species (0 = Setosa, 1 = Versicolor, 2 = Virginica)
 
-⚙️ Technologies Used
+# Technologies Used
 
 Python
 
@@ -49,7 +49,7 @@ NumPy
 
 Scikit-learn
 
-🧠 Machine Learning Models Used
+# Machine Learning Models Used
 
 Logistic Regression
 
@@ -59,7 +59,7 @@ K-Nearest Neighbors (KNN)
 
 Feature scaling was done using StandardScaler where required.
 
-📈 Model Evaluation
+# Model Evaluation
 
 The models were evaluated using:
 
@@ -67,7 +67,7 @@ Training Accuracy
 
 Testing Accuracy
 
-Sample Results:
+# Sample Results:
 
 Logistic Regression: ~97%
 
@@ -77,11 +77,11 @@ KNN: ~95%
 
 (Random Forest achieved the best performance.)
 
-🔍 Model Testing
+# Model Testing
 
 The trained model was also tested on new input data to predict the Iris flower species.
 
-✅ Conclusion
+# Conclusion
 
 This project demonstrates the complete machine learning workflow:
 
